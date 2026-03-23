@@ -17,11 +17,12 @@ focus_areas:
 currently_building: ChronoHealth (An AI-powered Medical EMR System)
 currently_learning: Advanced Agentic Routing, Vision-LLM Optimization
 contact: [LinkedIn](https://linkedin.com/in/taqreemkhan)
-
 🛠️ Tech Stack & Tools
 Generative AI & Data
 
+
 Full-Stack & Cloud
+
 
 📊 GitHub Stats
 <div align="center">
