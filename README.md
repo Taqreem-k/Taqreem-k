@@ -1,35 +1,33 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm M. Taqreem Khan 👋
 
-###
+**AI Software Engineer | Generative AI, RAG Architectures, Agentic Workflows**
 
-<p align="left">My name is Taqreem and I'm a Generative AI Engineer, from India</p>
+---
 
-###
+### 🧑‍💻 About Me
 
-<h2 align="left">About me</h2>
+```yaml
+name: M. Taqreem Khan
+located_in: Bhopal, India
+current_role: AI Software Engineer & CS Student @ VIT Bhopal
+focus_areas:
+  - Generative AI & LLM Integration
+  - Multi-Agent State Machines (LangGraph)
+  - Multimodal RAG Pipelines
+currently_building: ChronoHealth (An AI-powered Medical EMR System)
+currently_learning: Advanced Agentic Routing, Vision-LLM Optimization
+contact: [LinkedIn](https://linkedin.com/in/taqreemkhan)
 
-###
+🛠️ Tech Stack & Tools
+Generative AI & Data
 
-<p align="left">📚 I'm currently learning Advanced Generative AI & RAG Pipelines<br>🎯 Goals: To master building scalable Gen AI Applications</p>
+Full-Stack & Cloud
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+📊 GitHub Stats
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTaqreem-k%26show_icons%3Dtrue%26theme%3Dradical" alt="Taqreem's GitHub Stats" />
 </div>
 
-###
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DTaqreem-k%26theme%3Dradical" alt="Taqreem's GitHub Streak" />
+</div>
