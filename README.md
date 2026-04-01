@@ -14,7 +14,7 @@ focus_areas:
   - Generative AI & LLM Integration
   - Multi-Agent State Machines (LangGraph)
   - Multimodal RAG Pipelines
-currently_building: ChronoHealth (An AI-powered Medical EMR System)
+currently_building: TradeAlign-AI (Personalized pre-market sentiment extraction system)
 currently_learning: Advanced Agentic Routing, Vision-LLM Optimization
 contact: [LinkedIn](https://linkedin.com/in/taqreemkhan)
 ```
