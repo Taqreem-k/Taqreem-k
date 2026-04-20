@@ -14,7 +14,7 @@ focus_areas:
   - Generative AI & LLM Integration
   - Multi-Agent State Machines (LangGraph)
   - Multimodal RAG Pipelines
-currently_building: JobRadar-AI (Autonomous agentic job curation pipeline)
+currently_building: AutoBlueprint (Voice-Driven Architecture Synthesizer)
 currently_learning: Advanced Agentic Routing, Vision-LLM Optimization
 contact: [LinkedIn](https://linkedin.com/in/taqreemkhan)
 ```
